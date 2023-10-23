@@ -1,0 +1,7 @@
+# Default ignore files for LOC
+loc
+loc.exe
+
+.DS_Store
+
+node_modules/
